@@ -18,4 +18,12 @@
 После входа в админ панель, создайте в модели Item товары, которые хотите продать(протестировать) и после переходите на локальные сервер с url "" для просмотра и покупки товаров!
 
 ![Снимок экрана от 2022-09-12 20-41-55](https://user-images.githubusercontent.com/92216309/189732636-37795461-43c9-41f5-a4b5-242671e20029.png)
- file:///home/daniil/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-09-12%2020-41-55.png
+![Снимок экрана от 2022-09-12 20-44-37](https://user-images.githubusercontent.com/92216309/189733174-3fa16037-fda6-49fc-83bb-5a544b969d92.png)
+![Снимок экрана от 2022-09-12 20-47-44](https://user-images.githubusercontent.com/92216309/189733181-8f718339-25e7-4165-a467-a65ce7f59de9.png)
+![Снимок экрана от 2022-09-12 20-41-55](https://user-images.githubusercontent.com/92216309/189733184-fb90972d-6e48-4372-9f24-15651b75c231.png)
+![Снимок экрана от 2022-09-12 20-41-46](https://user-images.githubusercontent.com/92216309/189733186-63a2b1ea-69a9-4128-876f-b56918cd2dc9.png)
+![Снимок экрана от 2022-09-12 20-48-16](https://user-images.githubusercontent.com/92216309/189733189-ec194e6a-1096-43e3-8022-43e995a76b0c.png)
+![Снимок экрана от 2022-09-12 20-44-26](https://user-images.githubusercontent.com/92216309/189733194-5d7fac27-7fa9-468b-a543-ca168f16a2be.png)
+![Снимок экрана от 2022-09-12 20-44-16](https://user-images.githubusercontent.com/92216309/189733196-3a668206-c599-40f5-bbc6-540709fb8e68.png)
+![Снимок экрана от 2022-09-12 20-42-38](https://user-images.githubusercontent.com/92216309/189733198-1e546d22-bdaa-4a17-a74a-f523213a118a.png)
+
