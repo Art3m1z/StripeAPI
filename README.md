@@ -1,4 +1,3 @@
-![Снимок экрана от 2022-09-12 20-47-44](https://user-images.githubusercontent.com/92216309/189734320-4681d210-cdf5-4710-acc2-7e0a103a8742.png)
 # Test_API Django & Stripe & Environ
 
 Реализовал  Django + Stripe API
@@ -24,3 +23,5 @@
 ![Снимок экрана от 2022-09-12 20-47-44](https://user-images.githubusercontent.com/92216309/189734206-72b9fae8-9fbe-4828-91ad-e13c5e7766ec.png)
 ![Снимок экрана от 2022-09-12 20-41-55](https://user-images.githubusercontent.com/92216309/189734210-ceecd112-329a-4938-8573-97e6e13a6e29.png)
 ![Снимок экрана от 2022-09-12 20-41-46](https://user-images.githubusercontent.com/92216309/189734213-dcb76eab-e34a-44b8-b5af-cc8a08cd3529.png)
+![Снимок экрана от 2022-09-12 20-47-44](https://user-images.githubusercontent.com/92216309/189734320-4681d210-cdf5-4710-acc2-7e0a103a8742.png)
+
