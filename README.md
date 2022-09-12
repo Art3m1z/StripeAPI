@@ -1,3 +1,4 @@
+![Снимок экрана от 2022-09-12 20-47-44](https://user-images.githubusercontent.com/92216309/189734320-4681d210-cdf5-4710-acc2-7e0a103a8742.png)
 # Test_API Django & Stripe & Environ
 
 Реализовал  Django + Stripe API
