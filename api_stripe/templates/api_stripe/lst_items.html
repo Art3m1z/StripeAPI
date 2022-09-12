@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+    <div>
+        {% for item in product %}
+
+        <h3>{{item}}</h3>
+        <p>{{ item.description }}</p>
+        <smal>{{ item.get_display_price }}</smal>
+        <a href="{% url 'item' item.id %}" >Let's buy it!</a>
+        {% endfor %}
+
+    </div>
+
+</body>
+</html>
