@@ -16,15 +16,10 @@
 После запустите миграцию для создания базы данных: (pyhton or python3) manage.py migrate
 Создайте суперпользвателя для входа в admin панель: (pyhton or python3) manage.py createsuperuser
 После входа в админ панель, создайте в модели Item товары, которые хотите продать(протестировать) и после переходите на локальные сервер с url "" для просмотра и покупки товаров!
-
-![Снимок экрана от 2022-09-12 20-42-25](https://user-images.githubusercontent.com/92216309/189733759-8aa46f05-3194-4395-8a49-ea550cd7fbc4.png)
-![Снимок экрана от 2022-09-12 20-44-16](https://user-images.githubusercontent.com/92216309/189733762-b02e37a7-b8fd-489c-ad89-a5e39894994f.png)
-![Снимок экрана от 2022-09-12 20-42-38](https://user-images.githubusercontent.com/92216309/189733766-7cd90c37-218b-4576-b56d-6bc585cd7d67.png)
-![Снимок экрана от 2022-09-12 20-48-16](https://user-images.githubusercontent.com/92216309/189733769-8e04608a-d350-490e-8d23-17761a0a3a9f.png)
-![Снимок экрана от 2022-09-12 20-44-37](https://user-images.githubusercontent.com/92216309/189733773-dea3a992-14af-4017-a7d7-e0399162a015.png)
-![Снимок экрана от 2022-09-12 20-47-44](https://user-images.githubusercontent.com/92216309/189733777-11756268-ad82-4bfd-9a4f-8bafcd7662a7.png)
-![Снимок экрана от 2022-09-12 20-41-55](https://user-images.githubusercontent.com/92216309/189733780-d4950482-9faf-4074-beea-7426c78a5bac.png)
-![Снимок экрана от 2022-09-12 20-41-46](https://user-images.githubusercontent.com/92216309/189733784-247c04cb-32ca-4afb-bac2-98bf8432a6ed.png)
-
-
-
+![Снимок экрана от 2022-09-12 20-42-38](https://user-images.githubusercontent.com/92216309/189734194-d7ccd754-f849-4025-8866-a3cc6b8ff276.png)
+![Снимок экрана от 2022-09-12 20-44-26](https://user-images.githubusercontent.com/92216309/189734197-ed210ef4-b137-4bcc-bdd9-2934a26d4fbd.png)
+![Снимок экрана от 2022-09-12 20-48-16](https://user-images.githubusercontent.com/92216309/189734199-b91ea687-ff14-4502-ab8d-675fc34c9a57.png)
+![Снимок экрана от 2022-09-12 20-44-37](https://user-images.githubusercontent.com/92216309/189734203-b166a0db-0886-4d8e-8579-b9f8e88e5629.png)
+![Снимок экрана от 2022-09-12 20-47-44](https://user-images.githubusercontent.com/92216309/189734206-72b9fae8-9fbe-4828-91ad-e13c5e7766ec.png)
+![Снимок экрана от 2022-09-12 20-41-55](https://user-images.githubusercontent.com/92216309/189734210-ceecd112-329a-4938-8573-97e6e13a6e29.png)
+![Снимок экрана от 2022-09-12 20-41-46](https://user-images.githubusercontent.com/92216309/189734213-dcb76eab-e34a-44b8-b5af-cc8a08cd3529.png)
