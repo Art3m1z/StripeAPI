@@ -17,13 +17,15 @@
 Создайте суперпользвателя для входа в admin панель: (pyhton or python3) manage.py createsuperuser
 После входа в админ панель, создайте в модели Item товары, которые хотите продать(протестировать) и после переходите на локальные сервер с url "" для просмотра и покупки товаров!
 
-![Снимок экрана от 2022-09-12 20-41-55](https://user-images.githubusercontent.com/92216309/189732636-37795461-43c9-41f5-a4b5-242671e20029.png)
-![Снимок экрана от 2022-09-12 20-44-37](https://user-images.githubusercontent.com/92216309/189733174-3fa16037-fda6-49fc-83bb-5a544b969d92.png)
-![Снимок экрана от 2022-09-12 20-47-44](https://user-images.githubusercontent.com/92216309/189733181-8f718339-25e7-4165-a467-a65ce7f59de9.png)
-![Снимок экрана от 2022-09-12 20-41-55](https://user-images.githubusercontent.com/92216309/189733184-fb90972d-6e48-4372-9f24-15651b75c231.png)
-![Снимок экрана от 2022-09-12 20-41-46](https://user-images.githubusercontent.com/92216309/189733186-63a2b1ea-69a9-4128-876f-b56918cd2dc9.png)
-![Снимок экрана от 2022-09-12 20-48-16](https://user-images.githubusercontent.com/92216309/189733189-ec194e6a-1096-43e3-8022-43e995a76b0c.png)
-![Снимок экрана от 2022-09-12 20-44-26](https://user-images.githubusercontent.com/92216309/189733194-5d7fac27-7fa9-468b-a543-ca168f16a2be.png)
-![Снимок экрана от 2022-09-12 20-44-16](https://user-images.githubusercontent.com/92216309/189733196-3a668206-c599-40f5-bbc6-540709fb8e68.png)
-![Снимок экрана от 2022-09-12 20-42-38](https://user-images.githubusercontent.com/92216309/189733198-1e546d22-bdaa-4a17-a74a-f523213a118a.png)
+![Снимок экрана от 2022-09-12 20-52-57](https://user-images.githubusercontent.com/92216309/189733381-d7af0e70-7b0b-4d5d-84db-fa7dd127a22a.png)
+![Снимок экрана от 2022-09-12 20-44-16](https://user-images.githubusercontent.com/92216309/189733387-786133df-7da5-454e-92d6-de2588aa97a6.png)
+![Снимок экрана от 2022-09-12 20-42-38](https://user-images.githubusercontent.com/92216309/189733389-665888a9-fda7-4e23-ae93-63adebe5f24d.png)
+![Снимок экрана от 2022-09-12 20-44-26](https://user-images.githubusercontent.com/92216309/189733392-b245fd9f-588c-4680-8a6c-92282fe4f2b1.png)
+![Снимок экрана от 2022-09-12 20-48-16](https://user-images.githubusercontent.com/92216309/189733394-4b9d3288-1655-4cce-9f06-51220e2266f9.png)
+![Снимок экрана от 2022-09-12 20-44-37](https://user-images.githubusercontent.com/92216309/189733395-9cfe1395-f47d-4735-b4ab-c4f067e52368.png)
+![Снимок экрана от 2022-09-12 20-47-44](https://user-images.githubusercontent.com/92216309/189733398-9c93cacc-f019-473f-b5c2-d006aee8cb9a.png)
+![Снимок экрана от 2022-09-12 20-41-55](https://user-images.githubusercontent.com/92216309/189733400-a53ec3d3-d0e1-4232-bd1d-4b2a10cd0a02.png)
+![Снимок экрана от 2022-09-12 20-41-46](https://user-images.githubusercontent.com/92216309/189733401-4fbacd67-dd28-4257-98c7-9297da5c8443.png)
+![Снимок экрана от 2022-09-12 20-42-25](https://user-images.githubusercontent.com/92216309/189733406-53226cf2-ab52-4f0e-b136-f1dd6479f66d.png)
+
 
